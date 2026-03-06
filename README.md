@@ -76,14 +76,8 @@ I'm <b>Abderrahmane Imlouli</b>, Computer Engineering — Cybersecurity speciali
 - Linux & Open-Source  
 - Systems Programming  
 - Chess  
-- Computer Science & Theory  
-
----
-
-<h3 align="center">
-<b>Fun fact:</b>" If you want to build great websites or break systems, first you must understand them deeply."
-</h3>
-
+- Computer Science & Theory
+  
 ---
 
 <h2 align="center"> Contact / Hire Me</h2>
